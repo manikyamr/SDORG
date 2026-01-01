@@ -1,7 +1,7 @@
 /**
 * @description       : Handler class to handle trigger operations on ServiceAppointment object.
 * @author            : sourav.das.adhikary@accenture.com
-* @group             :
+* @group             : shm
 * @last modified on  : 01-24-2025
 * @last modified by  : sourav.das.adhikary@accenture.com
 **/
